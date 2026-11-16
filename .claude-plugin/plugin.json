@@ -1,0 +1,10 @@
+{
+  "name": "glisse",
+  "description": "Build Apple Liquid Glass (iOS 26 style) UI in React with the glisse component library.",
+  "version": "1.0.0",
+  "author": { "name": "OWNER" },
+  "homepage": "https://github.com/OWNER/glisse-skill",
+  "repository": "https://github.com/OWNER/glisse-skill",
+  "license": "MIT",
+  "keywords": ["glisse", "liquid-glass", "react", "ui", "ios"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "glisse-skill",
+  "owner": { "name": "OWNER" },
+  "plugins": [
+    {
+      "name": "glisse",
+      "source": "./",
+      "description": "Build Apple Liquid Glass (iOS 26 style) UI in React with the glisse component library.",
+      "version": "1.0.0"
+    }
+  ]
+}
